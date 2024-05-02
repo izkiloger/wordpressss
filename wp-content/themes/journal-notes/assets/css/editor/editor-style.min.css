@@ -1,0 +1,317 @@
+.button,
+input[type="button"],
+input[type="submit"],
+.wp-element-button,
+.wp-block-post-comments input[type=submit],
+.wp-block-search__button,
+.wp-block-button__link {
+	transition: all 300ms ease;
+	transform: scale(1);
+	background-color: var(--wp--preset--color--primary);
+	color: var(--wp--preset--color--base);
+	font-family: var(--wp--preset--font-family--primary);
+	font-style: italic
+}
+
+.button:hover,
+	.button:focus,
+	input[type="button"]:hover,
+	input[type="button"]:focus,
+	input[type="submit"]:hover,
+	input[type="submit"]:focus,
+	.wp-element-button:hover,
+	.wp-element-button:focus,
+	.wp-block-post-comments input[type=submit]:hover,
+	.wp-block-post-comments input[type=submit]:focus,
+	.wp-block-search__button:hover,
+	.wp-block-search__button:focus,
+	.wp-block-button__link:hover,
+	.wp-block-button__link:focus {
+		transform: scale(1.1) perspective(1px);
+		text-decoration: none;
+		cursor: pointer;
+	}
+
+.is-style-journal-notes-line-button.wp-block-button .wp-element-button,
+	.is-style-journal-notes-line-button.wp-block-button .wp-block-button__link {
+		padding: 2px 5px;
+		box-shadow: 0 -9px var(--wp--preset--color--primary) inset;
+		color: var(--wp--preset--color--contrast);
+		background-color: transparent !important;
+		border: 0
+	}
+
+.is-style-journal-notes-line-button.wp-block-button .wp-element-button:hover,
+		.is-style-journal-notes-line-button.wp-block-button .wp-element-button:focus,
+		.is-style-journal-notes-line-button.wp-block-button .wp-block-button__link:hover,
+		.is-style-journal-notes-line-button.wp-block-button .wp-block-button__link:focus {
+			transform: scale(1) perspective(1px);
+			color: var(--wp--preset--color--base);
+			box-shadow: 0 -50px 0 0 var(--wp--preset--color--primary) inset;
+		}
+
+.is-style-journal-notes-line-button.wp-block-button .wp-element-button.has-secondary-background-color, .is-style-journal-notes-line-button.wp-block-button .wp-block-button__link.has-secondary-background-color {
+			background-color: transparent !important;
+			box-shadow: 0 -9px var(--wp--preset--color--secondary) inset;
+			border: 0
+		}
+
+.is-style-journal-notes-line-button.wp-block-button .wp-element-button.has-secondary-background-color:hover,
+			.is-style-journal-notes-line-button.wp-block-button .wp-element-button.has-secondary-background-color:focus,
+			.is-style-journal-notes-line-button.wp-block-button .wp-block-button__link.has-secondary-background-color:hover,
+			.is-style-journal-notes-line-button.wp-block-button .wp-block-button__link.has-secondary-background-color:focus {
+				color: var(--wp--preset--color--base) !important;
+				box-shadow: 0 -50px 0 0 var(--wp--preset--color--secondary) inset;
+			}
+
+.is-style-journal-notes-line-button.wp-block-button .wp-element-button.has-tertiary-background-color, .is-style-journal-notes-line-button.wp-block-button .wp-block-button__link.has-tertiary-background-color {
+			background-color: transparent !important;
+			box-shadow: 0 -9px var(--wp--preset--color--tertiary) inset;
+			border: 0
+		}
+
+.is-style-journal-notes-line-button.wp-block-button .wp-element-button.has-tertiary-background-color:hover,
+			.is-style-journal-notes-line-button.wp-block-button .wp-element-button.has-tertiary-background-color:focus,
+			.is-style-journal-notes-line-button.wp-block-button .wp-block-button__link.has-tertiary-background-color:hover,
+			.is-style-journal-notes-line-button.wp-block-button .wp-block-button__link.has-tertiary-background-color:focus {
+				color: var(--wp--preset--color--contrast) !important;
+				box-shadow: 0 -50px 0 0 var(--wp--preset--color--tertiary) inset;
+			}
+
+.is-style-journal-notes-line-button.wp-block-button .wp-element-button.has-base-background-color, .is-style-journal-notes-line-button.wp-block-button .wp-block-button__link.has-base-background-color {
+			background-color: transparent !important;
+			box-shadow: 0 -9px var(--wp--preset--color--base) inset;
+			border: 0
+		}
+
+.is-style-journal-notes-line-button.wp-block-button .wp-element-button.has-base-background-color:hover,
+			.is-style-journal-notes-line-button.wp-block-button .wp-element-button.has-base-background-color:focus,
+			.is-style-journal-notes-line-button.wp-block-button .wp-block-button__link.has-base-background-color:hover,
+			.is-style-journal-notes-line-button.wp-block-button .wp-block-button__link.has-base-background-color:focus {
+				color: var(--wp--preset--color--contrast) !important;
+				box-shadow: 0 -50px 0 0 var(--wp--preset--color--base) inset;
+			}
+
+.is-style-journal-notes-line-button.wp-block-button .wp-element-button.has-contrast-background-color, .is-style-journal-notes-line-button.wp-block-button .wp-block-button__link.has-contrast-background-color {
+			background-color: transparent !important;
+			box-shadow: 0 -9px var(--wp--preset--color--contrast) inset;
+			border: 0
+		}
+
+.is-style-journal-notes-line-button.wp-block-button .wp-element-button.has-contrast-background-color:hover,
+			.is-style-journal-notes-line-button.wp-block-button .wp-element-button.has-contrast-background-color:focus,
+			.is-style-journal-notes-line-button.wp-block-button .wp-block-button__link.has-contrast-background-color:hover,
+			.is-style-journal-notes-line-button.wp-block-button .wp-block-button__link.has-contrast-background-color:focus {
+				box-shadow: 0 -50px 0 0 var(--wp--preset--color--contrast) inset;
+				color: var(--wp--preset--color--base) !important;
+			}
+
+.is-style-journal-notes-line-button.wp-block-button .wp-element-button.has-primary-background-color, .is-style-journal-notes-line-button.wp-block-button .wp-block-button__link.has-primary-background-color {
+			background-color: transparent !important;
+			box-shadow: 0 -9px var(--wp--preset--color--primary) inset;
+			border: 0
+		}
+
+.is-style-journal-notes-line-button.wp-block-button .wp-element-button.has-primary-background-color:hover,
+			.is-style-journal-notes-line-button.wp-block-button .wp-element-button.has-primary-background-color:focus,
+			.is-style-journal-notes-line-button.wp-block-button .wp-block-button__link.has-primary-background-color:hover,
+			.is-style-journal-notes-line-button.wp-block-button .wp-block-button__link.has-primary-background-color:focus {
+				box-shadow: 0 -50px 0 0 var(--wp--preset--color--primary) inset;
+				color: var(--wp--preset--color--base) !important;
+			}
+
+.is-style-journal-notes-line-button.wp-block-button .wp-element-button.has-quaternary-background-color, .is-style-journal-notes-line-button.wp-block-button .wp-block-button__link.has-quaternary-background-color {
+			background-color: transparent !important;
+			box-shadow: 0 -9px var(--wp--preset--color--quaternary) inset;
+			border: 0
+		}
+
+.is-style-journal-notes-line-button.wp-block-button .wp-element-button.has-quaternary-background-color:hover,
+			.is-style-journal-notes-line-button.wp-block-button .wp-element-button.has-quaternary-background-color:focus,
+			.is-style-journal-notes-line-button.wp-block-button .wp-block-button__link.has-quaternary-background-color:hover,
+			.is-style-journal-notes-line-button.wp-block-button .wp-block-button__link.has-quaternary-background-color:focus {
+				box-shadow: 0 -50px 0 0 var(--wp--preset--color--quaternary) inset;
+				color: var(--wp--preset--color--contrast) !important;
+			}
+
+.is-style-journal-notes-no-background .wp-element-button,
+	.is-style-journal-notes-no-background .wp-block-button__link {
+		color: var(--wp--preset--color--contrast);
+		background-color: transparent;
+		border: 0
+	}
+
+.is-style-journal-notes-no-background .wp-element-button:hover,
+		.is-style-journal-notes-no-background .wp-element-button:focus,
+		.is-style-journal-notes-no-background .wp-block-button__link:hover,
+		.is-style-journal-notes-no-background .wp-block-button__link:focus {
+			transform: scale(1.2) perspective(1px);
+			color: var(--wp--preset--color--contrast);
+			border: 0;
+		}
+
+.is-style-journal-notes-no-background .wp-element-button.has-primary-background-color, .is-style-journal-notes-no-background .wp-block-button__link.has-primary-background-color {
+			background-color: transparent !important;
+			color: var(--wp--preset--color--primary) !important
+		}
+
+.is-style-journal-notes-no-background .wp-element-button.has-primary-background-color:hover,
+			.is-style-journal-notes-no-background .wp-element-button.has-primary-background-color:focus,
+			.is-style-journal-notes-no-background .wp-block-button__link.has-primary-background-color:hover,
+			.is-style-journal-notes-no-background .wp-block-button__link.has-primary-background-color:focus {
+				background-color: transparent !important;
+				color: var(--wp--preset--color--primary) !important;
+				border: 0;
+			}
+
+.is-style-journal-notes-no-background .wp-element-button.has-secondary-background-color, .is-style-journal-notes-no-background .wp-block-button__link.has-secondary-background-color {
+			background-color: transparent !important;
+			color: var(--wp--preset--color--secondary) !important
+		}
+
+.is-style-journal-notes-no-background .wp-element-button.has-secondary-background-color:hover,
+			.is-style-journal-notes-no-background .wp-element-button.has-secondary-background-color:focus,
+			.is-style-journal-notes-no-background .wp-block-button__link.has-secondary-background-color:hover,
+			.is-style-journal-notes-no-background .wp-block-button__link.has-secondary-background-color:focus {
+				background-color: transparent !important;
+				color: var(--wp--preset--color--secondary) !important;
+				border: 0;
+			}
+
+.is-style-journal-notes-no-background .wp-element-button.has-tertiary-background-color, .is-style-journal-notes-no-background .wp-block-button__link.has-tertiary-background-color {
+			background-color: transparent !important;
+			color: var(--wp--preset--color--tertiary) !important;
+			border: 0
+		}
+
+.is-style-journal-notes-no-background .wp-element-button.has-tertiary-background-color:hover,
+			.is-style-journal-notes-no-background .wp-element-button.has-tertiary-background-color:focus,
+			.is-style-journal-notes-no-background .wp-block-button__link.has-tertiary-background-color:hover,
+			.is-style-journal-notes-no-background .wp-block-button__link.has-tertiary-background-color:focus {
+				background-color: transparent !important;
+				color: var(--wp--preset--color--tertiary) !important;
+			}
+
+.is-style-journal-notes-no-background .wp-element-button.has-base-background-color, .is-style-journal-notes-no-background .wp-block-button__link.has-base-background-color {
+			background-color: transparent !important;
+			color: var(--wp--preset--color--base) !important;
+			border: 0
+		}
+
+.is-style-journal-notes-no-background .wp-element-button.has-base-background-color:hover,
+			.is-style-journal-notes-no-background .wp-element-button.has-base-background-color:focus,
+			.is-style-journal-notes-no-background .wp-block-button__link.has-base-background-color:hover,
+			.is-style-journal-notes-no-background .wp-block-button__link.has-base-background-color:focus {
+				background-color: transparent !important;
+				color: var(--wp--preset--color--base) !important;
+			}
+
+.is-style-journal-notes-no-background .wp-element-button.has-contrast-background-color, .is-style-journal-notes-no-background .wp-block-button__link.has-contrast-background-color {
+			background-color: transparent !important;
+			color: var(--wp--preset--color--background) !important;
+			border: 0
+		}
+
+.is-style-journal-notes-no-background .wp-element-button.has-contrast-background-color:hover,
+			.is-style-journal-notes-no-background .wp-element-button.has-contrast-background-color:focus,
+			.is-style-journal-notes-no-background .wp-block-button__link.has-contrast-background-color:hover,
+			.is-style-journal-notes-no-background .wp-block-button__link.has-contrast-background-color:focus {
+				background-color: transparent !important;
+				color: var(--wp--preset--color--background) !important;
+			}
+
+.wp-block-table thead th,
+.wp-block-table tfoot th,
+.wp-block-table tfoot td,
+table thead th,
+table tfoot th,
+table tfoot td {
+	font-family: var(--wp--preset--font-family--heading) !important;
+	font-style: italic;
+}
+
+code {
+	color: var(--wp--preset--color--base);
+	background-color: var(--wp--preset--color--contrast);
+	font-family: var(--wp--preset--font-family--chivo-mono);
+}
+
+ul.is-style-journal-notes-list-chevron-right {
+		--icon-space: 1.3em;
+		list-style: none;
+		padding: 0
+	}
+
+ul.is-style-journal-notes-list-chevron-right li {
+			padding-left: var(--icon-space)
+		}
+
+ul.is-style-journal-notes-list-chevron-right li::before {
+				content: "\f054";
+				font-family: 'Font Awesome 6 Pro';
+				display: inline-block;
+				margin-left: calc(var(--icon-space)*-1);
+				width: var(--icon-space);
+			}
+
+ul.is-style-journal-notes-list-chevron-right ul {
+			list-style: none;
+		}
+
+ul.is-style-journal-notes-list-check {
+		--icon-space: 1.3em;
+		list-style: none;
+		padding: 0
+	}
+
+ul.is-style-journal-notes-list-check li {
+			padding-left: var(--icon-space)
+		}
+
+ul.is-style-journal-notes-list-check li::before {
+				content: "\f00c";
+				font-family: 'Font Awesome 6 Pro';
+				display: inline-block;
+				margin-left: calc(var(--icon-space)*-1);
+				width: var(--icon-space);
+			}
+
+ul.is-style-journal-notes-list-check ul {
+			list-style: none;
+		}
+
+ul.is-style-journal-notes-list-dash {
+		--icon-space: 1.3em;
+		list-style: none;
+		padding: 0
+	}
+
+ul.is-style-journal-notes-list-dash li {
+			padding-left: var(--icon-space)
+		}
+
+ul.is-style-journal-notes-list-dash li::before {
+				content: "\f068";
+				font-family: 'Font Awesome 6 Pro';
+				display: inline-block;
+				margin-left: calc(var(--icon-space)*-1);
+				width: var(--icon-space);
+			}
+
+ul.is-style-journal-notes-list-dash ul {
+			list-style: none;
+		}
+
+.site-content .search-filters:not(.alignfull) > .alignwide {
+			margin: 0 !important;
+		}
+
+.site-content .search-filters:not(.alignfull) .wp-block-search__button {
+			height: 43px;
+			padding-top: 0;
+			padding-bottom: 0;
+		}
+
+.site-content .search-filters:not(.alignfull) .wp-block-search__input {
+			margin-bottom: 0;
+		}

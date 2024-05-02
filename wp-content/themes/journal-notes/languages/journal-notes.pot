@@ -1,0 +1,573 @@
+# Copyright (C) 2023 Journal Notes
+# This file is distributed under the same license as the Journal Notes package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Journal Notes\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Jacob Martella Web Development\n"
+"Report-Msgid-Bugs-To: Journal Notes\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../journal-notes/functions.php:70
+msgid "Full-height"
+msgstr ""
+
+#: ../journal-notes/functions.php:78
+msgid "Underlined"
+msgstr ""
+
+#: ../journal-notes/functions.php:85
+msgid "No Background"
+msgstr ""
+
+#: ../journal-notes/functions.php:92
+msgid "Chevron Right"
+msgstr ""
+
+#: ../journal-notes/functions.php:96
+msgid "Checkmark"
+msgstr ""
+
+#: ../journal-notes/functions.php:100
+msgid "Dash"
+msgstr ""
+
+#: ../journal-notes/functions.php:113
+msgid "Normal"
+msgstr ""
+
+#: ../journal-notes/functions.php:119
+msgid "Round Edges"
+msgstr ""
+
+#: ../journal-notes/functions.php:127
+msgid "Primary Soft Drop Shadow"
+msgstr ""
+
+#: ../journal-notes/functions.php:134
+msgid "Primary Hard Drop Shadow"
+msgstr ""
+
+#: ../journal-notes/functions.php:254
+msgid "Welcome to Journal Notes and the Crosswinds Framework! With the power of this theme as well as the Crosswinds Blocks plugin, you can quickly create an amazing blog. On this page you'll be able to set up the blocks plugin to your liking, add your theme license, set up the theme for your website and find links to manage your account, read through documentation and so much more. You'll be able to create an amazing blog in no time!"
+msgstr ""
+
+#: ../journal-notes/functions.php:268, ../journal-notes/functions.php:270
+msgid "Report an Issue"
+msgstr ""
+
+#: ../journal-notes/functions.php:269
+msgid "If you come across an issue with Journal Notes, the Crosswinds Framework or Crosswinds Blocks, please report the issue as a GitHub issue at the link below. Thank you!"
+msgstr ""
+
+#: ../journal-notes/functions.php:285, ../journal-notes/functions.php:287
+msgid "Suggest a Feature"
+msgstr ""
+
+#: ../journal-notes/functions.php:286
+msgid "New ideas are always welcome! If you have an idea for a new feature for Journal Notes, the Crosswinds Framework and/or Crosswinds Block, you can submit it as a GitHub issue at the link below! Thank you!"
+msgstr ""
+
+#: ../journal-notes/functions.php:302
+msgid "Check Out the Documentation"
+msgstr ""
+
+#: ../journal-notes/functions.php:303
+msgid "Learn how you can get started using Journal Notes and the Crosswinds Framework for your website by visiting the documentation at the link below."
+msgstr ""
+
+#: ../journal-notes/functions.php:304
+msgid "View Documentation"
+msgstr ""
+
+#: ../journal-notes/admin/journal-notes-admin-settings.php:14
+msgid "View More Crosswinds Framework Themes"
+msgstr ""
+
+#: ../journal-notes/admin/journal-notes-admin-settings.php:16
+msgid "Want to take your website to the next level? Checkout the preimum Crosswinds Framework themes! From a portfolio to an online store to a newspaper website and more, the Crosswinds Framework themes will help you create a great website."
+msgstr ""
+
+#: ../journal-notes/admin/journal-notes-admin-settings.php:17
+msgid "View Crosswinds Framework Themes"
+msgstr ""
+
+#: ../journal-notes/patterns/callout-cover-one-column.php:13, ../journal-notes/patterns/callout-cover-two-columns.php:15
+msgid "Call to Action Title"
+msgstr ""
+
+#: ../journal-notes/patterns/callout-cover-one-column.php:22, ../journal-notes/patterns/callout-cover-two-columns.php:26
+msgid "Call to Action Button"
+msgstr ""
+
+#: ../journal-notes/patterns/default-sidebar.php:14
+msgid "Calendar"
+msgstr ""
+
+#: ../journal-notes/patterns/default-sidebar.php:26
+msgid "Categories"
+msgstr ""
+
+#: ../journal-notes/patterns/default-sidebar.php:38
+msgid "Tags"
+msgstr ""
+
+#: ../journal-notes/patterns/default-sidebar.php:50
+msgid "Latest Posts"
+msgstr ""
+
+#: ../journal-notes/patterns/default-sidebar.php:62
+msgid "Latest Comments"
+msgstr ""
+
+#: ../journal-notes/patterns/error-header-background.php:13, ../journal-notes/patterns/error-header-cover.php:13, ../journal-notes/patterns/error-header-no-background.php:12
+msgid "Error - Content Not Found"
+msgstr ""
+
+#: ../journal-notes/patterns/footer-base-two-columns.php:22, ../journal-notes/patterns/footer-contrast-two-columns.php:22
+msgid "Menu Title"
+msgstr ""
+
+#: ../journal-notes/patterns/header-base-centered-menu-site-logo-top-bar.php:14, ../journal-notes/patterns/header-base-centered-menu-top-bar.php:14, ../journal-notes/patterns/header-base-mobile-menu-top-bar.php:14, ../journal-notes/patterns/header-base-regular-menu-top-bar.php:14, ../journal-notes/patterns/header-contrast-centered-menu-site-logo-top-bar.php:14, ../journal-notes/patterns/header-contrast-centered-menu-top-bar.php:14, ../journal-notes/patterns/header-contrast-mobile-menu-top-bar.php:14, ../journal-notes/patterns/header-contrast-regular-menu-top-bar.php:14
+msgid "Find Me On:"
+msgstr ""
+
+#: ../journal-notes/patterns/query-post-column.php:27, ../journal-notes/patterns/query-post-columns.php:34, ../journal-notes/patterns/single-post-column.php:26, ../journal-notes/patterns/single-post-columns.php:33
+msgid "Read This Post"
+msgstr ""
+
+#: ../journal-notes/patterns/query-post-column.php:42, ../journal-notes/patterns/query-post-columns.php:50, ../journal-notes/patterns/query-post-cover.php:34
+msgid "There are no posts here. Sorry."
+msgstr ""
+
+#: ../journal-notes/patterns/related-posts.php:12
+msgid "Related Posts"
+msgstr ""
+
+#: ../journal-notes/patterns/search-filters-categories-only.php:12
+msgid "Select a Category"
+msgstr ""
+
+#: ../journal-notes/patterns/search-filters-categories-only.php:17, ../journal-notes/patterns/search-filters-categories-search-row.php:18, ../journal-notes/patterns/search-filters-categories-search-rows.php:18
+msgid "Category 1"
+msgstr ""
+
+#: ../journal-notes/patterns/search-filters-categories-only.php:21, ../journal-notes/patterns/search-filters-categories-search-row.php:22, ../journal-notes/patterns/search-filters-categories-search-rows.php:22
+msgid "Category 2"
+msgstr ""
+
+#: ../journal-notes/patterns/search-filters-categories-only.php:25, ../journal-notes/patterns/search-filters-categories-search-row.php:26, ../journal-notes/patterns/search-filters-categories-search-rows.php:26
+msgid "Category 3"
+msgstr ""
+
+#: ../journal-notes/patterns/search-filters-categories-only.php:29, ../journal-notes/patterns/search-filters-categories-search-row.php:30, ../journal-notes/patterns/search-filters-categories-search-rows.php:30
+msgid "Category 4"
+msgstr ""
+
+#: ../journal-notes/patterns/search-filters-categories-only.php:33, ../journal-notes/patterns/search-filters-categories-search-row.php:34, ../journal-notes/patterns/search-filters-categories-search-rows.php:34
+msgid "Category 5"
+msgstr ""
+
+#: ../journal-notes/patterns/search-filters-categories-search-row.php:13, ../journal-notes/patterns/search-filters-categories-search-rows.php:13
+msgid "Filter By:"
+msgstr ""
+
+#: ../journal-notes/patterns/widget-title-background.php:13, ../journal-notes/patterns/widget-title-borders.php:13
+msgid "Widget Title"
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:337
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:341
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:347
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:353
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:359
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:365
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:371
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:393, ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:920, ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:2626, ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:394, ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:395, ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:3045
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:397
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:399
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:401
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:1030
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:1030, ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:1027
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:1027
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:1214, ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:3041
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:2075
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:2435
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:2481
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:2485
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:2489
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:2493
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:2575
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:2701
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:2707
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:2696
+msgid "Install %2$s"
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:3594
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:3596
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:3608
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:3610
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:3610, ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:3610, ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:3613
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:3600
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:3602
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:3605
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../journal-notes/inc/tgmpa/class-tgm-plugin-activation.php:3591
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""

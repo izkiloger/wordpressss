@@ -1,0 +1,1085 @@
+# Copyright (C) 2023 Crosswinds Framework
+# This file is distributed under the same license as the Crosswinds Framework package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Crosswinds Framework\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Jacob Martella Web Development\n"
+"Report-Msgid-Bugs-To: Crosswinds Framework\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../crosswinds-framework/functions.php:64
+msgid "Full-height"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:83, ../crosswinds-framework/admin/crosswinds-framework-admin-page.php:32
+msgid "Crosswinds Framework"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:91
+msgid "404"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:95
+msgid "Archive"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:99
+msgid "Banners"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:103
+msgid "Blog Page Sections"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:107
+msgid "Blog Posts Sections"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:111
+msgid "Business Cards"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:115
+msgid "Callouts"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:119
+msgid "Call to Action Sections"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:123
+msgid "Cards"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:127
+msgid "Columns"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:131
+msgid "Covers"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:135, ../crosswinds-framework/patterns/contact-card.php:13, ../crosswinds-framework/patterns/contact-us-one-column.php:15, ../crosswinds-framework/patterns/contact-us-two-columns-form-left.php:15, ../crosswinds-framework/patterns/contact-us-two-columns-form-right.php:15, ../crosswinds-framework/patterns/footer-contrast-large.php:48, ../crosswinds-framework/patterns/footer-neutral-large.php:48
+msgid "Contact Us"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:139
+msgid "Ecommerce"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:143
+msgid "Elements"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:147
+msgid "Featured Content"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:151
+msgid "Features"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:155
+msgid "Footer"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:159, ../crosswinds-framework/patterns/faqs-section-one-column.php:13, ../crosswinds-framework/patterns/faqs-section-two-columns.php:13
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:163
+msgid "Header"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:167
+msgid "Hero Sections"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:171
+msgid "Homepage"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:175
+msgid "How We Do It Sections"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:179
+msgid "Links"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:183
+msgid "Page"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:187
+msgid "Photo Grids"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:191
+msgid "Posts"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:195
+msgid "Post Content"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:199
+msgid "Pricing Tables"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:203
+msgid "Projects"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:207
+msgid "Queries"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:211
+msgid "Resume Sections"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:215, ../crosswinds-framework/patterns/error-content-left-sidebar.php:23, ../crosswinds-framework/patterns/error-content-left-sidebar.php:23, ../crosswinds-framework/patterns/error-content-right-sidebar.php:19, ../crosswinds-framework/patterns/error-content-right-sidebar.php:19, ../crosswinds-framework/patterns/error-content.php:15, ../crosswinds-framework/patterns/error-content.php:15
+msgid "Search"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:219
+msgid "Services"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:223
+msgid "Site Titles"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:227
+msgid "Skills Sliders"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:231
+msgid "Stats"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:235
+msgid "Talk Sections"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:239
+msgid "Team Members"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:243
+msgid "Testimonials"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:247
+msgid "Text and Media"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:251
+msgid "Widgets"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:407, ../crosswinds-framework/functions.php:408
+msgid "Crosswinds"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:556
+msgid "Want to get the most out of Crosswinds Blocks? Checkout the Crosswinds Framework themes! From a portfolio to an online store to a newspaper website and even a blank canvas to create anything you want, the Crosswinds Framework will help you create a great website."
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:570, ../crosswinds-framework/functions.php:572
+msgid "Report an Issue"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:571
+msgid "If you come across an issue with the Crosswinds Framework, please report the issue in the GitHub repository using the link below."
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:587, ../crosswinds-framework/functions.php:589
+msgid "Suggest a Feature"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:588
+msgid "Want to see a new feature included in a release of the Crosswinds Framework? Be sure to drop your feature idea off in the GitHub repository using the link below."
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:604, ../crosswinds-framework/functions.php:606
+msgid "View Documentation"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:605
+msgid "Learn how you can get started using the Crosswinds Framework for your website by visiting the documentation at the link below."
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:616
+msgid "Build Your Website Even Quicker with a Crosswinds Framework Child Theme"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:617
+msgid "Cut down the time you spend building your website by using one of the Crosswinds Framework child themes! Each of these themes focus on a specific niche to give you a great design to match what you need to build. It's a great way to get a head start on creating an amazing website for yourself or your business!"
+msgstr ""
+
+#: ../crosswinds-framework/functions.php:618
+msgid "View Child Themes"
+msgstr ""
+
+#: ../crosswinds-framework/index.php:12
+msgid "This theme was built for the WordPress full-site-editing feature. You need to be using WordPress 5.9 or higher to make it work."
+msgstr ""
+
+#: ../crosswinds-framework/admin/crosswinds-framework-admin-page.php:39, ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: ../crosswinds-framework/admin/crosswinds-framework-admin-page.php:46
+msgid "Framework Version"
+msgstr ""
+
+#: ../crosswinds-framework/admin/crosswinds-framework-admin-page.php:54
+msgid "Blocks Version"
+msgstr ""
+
+#: ../crosswinds-framework/admin/crosswinds-framework-admin-page.php:65
+msgid "Welcome to the Crosswinds Framework!"
+msgstr ""
+
+#: ../crosswinds-framework/admin/crosswinds-framework-admin-page.php:68
+msgid "Start Editing"
+msgstr ""
+
+#: ../crosswinds-framework/admin/crosswinds-framework-admin-page.php:69
+msgid "Check out the Documentation"
+msgstr ""
+
+#: ../crosswinds-framework/admin/crosswinds-framework-admin-page.php:86
+msgid "Crosswinds Blocks"
+msgstr ""
+
+#: ../crosswinds-framework/admin/crosswinds-framework-admin-page.php:92
+msgid "Want to take your website to the next level now that you're using the Crosswinds Framework? Check out the Crosswinds Blocks plugin! This plugin will add in an accordion block, tabs block, post navigation block, related posts block, social sharing block and more to your website. It's the perfect way to customize your website in a full site editor world!"
+msgstr ""
+
+#: ../crosswinds-framework/admin/crosswinds-framework-admin-page.php:93
+msgid "Download Crosswinds Blocks"
+msgstr ""
+
+#: ../crosswinds-framework/admin/crosswinds-framework-admin-page.php:109
+msgid "Required Plugins"
+msgstr ""
+
+#: ../crosswinds-framework/admin/crosswinds-framework-admin-page.php:148, ../crosswinds-framework/admin/crosswinds-framework-admin-page.php:215
+msgid "Installed"
+msgstr ""
+
+#: ../crosswinds-framework/admin/crosswinds-framework-admin-page.php:146, ../crosswinds-framework/admin/crosswinds-framework-admin-page.php:213, ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: ../crosswinds-framework/admin/crosswinds-framework-admin-page.php:131, ../crosswinds-framework/admin/crosswinds-framework-admin-page.php:198, ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: ../crosswinds-framework/admin/crosswinds-framework-admin-page.php:117, ../crosswinds-framework/admin/crosswinds-framework-admin-page.php:157, ../crosswinds-framework/admin/crosswinds-framework-admin-page.php:184, ../crosswinds-framework/admin/crosswinds-framework-admin-page.php:224, ../crosswinds-framework/patterns/card-product.php:34, ../crosswinds-framework/patterns/homepage-local-services-business.php:32, ../crosswinds-framework/patterns/homepage-online-store.php:30, ../crosswinds-framework/patterns/homepage-online-store.php:140, ../crosswinds-framework/patterns/homepage-online-store.php:172, ../crosswinds-framework/patterns/homepage-online-store.php:204, ../crosswinds-framework/patterns/homepage-online-store.php:236, ../crosswinds-framework/patterns/homepage-product.php:28
+msgid "Learn More"
+msgstr ""
+
+#: ../crosswinds-framework/admin/crosswinds-framework-admin-page.php:176
+msgid "Suggested Plugins"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/callout-base-one-column.php:13, ../crosswinds-framework/patterns/callout-base-two-columns.php:15, ../crosswinds-framework/patterns/callout-contrast-one-column.php:13, ../crosswinds-framework/patterns/callout-contrast-two-columns.php:15
+msgid "Callout Title"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/callout-base-one-column.php:22, ../crosswinds-framework/patterns/callout-base-two-columns.php:26, ../crosswinds-framework/patterns/callout-contrast-one-column.php:22, ../crosswinds-framework/patterns/callout-contrast-two-columns.php:26, ../crosswinds-framework/patterns/footer-contrast-call-to-action.php:25, ../crosswinds-framework/patterns/footer-neutral-call-to-action.php:25
+msgid "Call to Action Button"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/card-page.php:20, ../crosswinds-framework/patterns/card-post.php:30
+msgid "Continue Reading"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/category-card.php:19
+msgid "Category Title"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/category-card.php:28
+msgid "View Category"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/columns-patterns-four-columns.php:14, ../crosswinds-framework/patterns/columns-patterns-three-columns.php:14, ../crosswinds-framework/patterns/columns-patterns-two-columns.php:14
+msgid "Column Heading Here"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/columns-patterns-four-columns.php:23, ../crosswinds-framework/patterns/columns-patterns-three-columns.php:23, ../crosswinds-framework/patterns/columns-patterns-two-columns.php:23
+msgid "Button Text"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/contact-card.php:18
+msgid "Email:"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/contact-card.php:32
+msgid "Phone:"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/contact-card.php:46
+msgid "Address:"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/contact-card.php:86
+msgid "Send Us a Message"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/contact-us-one-column.php:24, ../crosswinds-framework/patterns/contact-us-two-columns-form-left.php:32, ../crosswinds-framework/patterns/contact-us-two-columns-form-right.php:26, ../crosswinds-framework/patterns/footer-contrast-large.php:52, ../crosswinds-framework/patterns/footer-neutral-large.php:52
+msgid "Email: me@example.com"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/contact-us-one-column.php:28, ../crosswinds-framework/patterns/contact-us-two-columns-form-left.php:36, ../crosswinds-framework/patterns/contact-us-two-columns-form-right.php:30, ../crosswinds-framework/patterns/footer-contrast-large.php:56, ../crosswinds-framework/patterns/footer-neutral-large.php:56
+msgid "Phone: 123-456-7890"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/contact-us-one-column.php:34, ../crosswinds-framework/patterns/contact-us-two-columns-form-left.php:42, ../crosswinds-framework/patterns/contact-us-two-columns-form-right.php:36
+msgid "Find Us On:"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/contact-us-one-column.php:59, ../crosswinds-framework/patterns/contact-us-two-columns-form-left.php:25, ../crosswinds-framework/patterns/contact-us-two-columns-form-right.php:63
+msgid "Put Your Contact Form Here"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/cover-pattern-full-align-center.php:14, ../crosswinds-framework/patterns/cover-pattern-full-align-left.php:14, ../crosswinds-framework/patterns/cover-pattern-full-align-right.php:14, ../crosswinds-framework/patterns/featured-content-base-photo-left.php:21, ../crosswinds-framework/patterns/featured-content-base-photo-right.php:15, ../crosswinds-framework/patterns/featured-content-contrast-photo-left.php:21, ../crosswinds-framework/patterns/featured-content-contrast-photo-right.php:15, ../crosswinds-framework/patterns/hero-section-base-center.php:13, ../crosswinds-framework/patterns/hero-section-base-photo-left.php:21, ../crosswinds-framework/patterns/hero-section-base-photo-right.php:15, ../crosswinds-framework/patterns/hero-section-contrast-center.php:13, ../crosswinds-framework/patterns/hero-section-contrast-photo-left.php:21, ../crosswinds-framework/patterns/hero-section-contrast-photo-right.php:15, ../crosswinds-framework/patterns/hero-section-cover-center.php:15, ../crosswinds-framework/patterns/hero-section-cover-left.php:17, ../crosswinds-framework/patterns/hero-section-cover-right.php:21
+msgid "This is a Heading"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/cover-pattern-full-align-center.php:23, ../crosswinds-framework/patterns/cover-pattern-full-align-left.php:23, ../crosswinds-framework/patterns/cover-pattern-full-align-right.php:23
+msgid "Button Link"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/error-content-left-sidebar.php:20, ../crosswinds-framework/patterns/error-content-right-sidebar.php:16, ../crosswinds-framework/patterns/error-content.php:12
+msgid "Oops. It looks like the page you're looking for isn't here. You can use the search form below or look through the links to find the post or page you're looking for."
+msgstr ""
+
+#: ../crosswinds-framework/patterns/error-content-left-sidebar.php:26, ../crosswinds-framework/patterns/error-content-right-sidebar.php:22, ../crosswinds-framework/patterns/error-content.php:18
+msgid "Pages"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/error-content-left-sidebar.php:32, ../crosswinds-framework/patterns/error-content-right-sidebar.php:28, ../crosswinds-framework/patterns/error-content.php:24
+msgid "Categories"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/faqs-section-one-column.php:24, ../crosswinds-framework/patterns/faqs-section-one-column.php:38, ../crosswinds-framework/patterns/faqs-section-one-column.php:52, ../crosswinds-framework/patterns/faqs-section-two-columns.php:26, ../crosswinds-framework/patterns/faqs-section-two-columns.php:40, ../crosswinds-framework/patterns/faqs-section-two-columns.php:54, ../crosswinds-framework/patterns/faqs-section-two-columns.php:72, ../crosswinds-framework/patterns/faqs-section-two-columns.php:86, ../crosswinds-framework/patterns/faqs-section-two-columns.php:100
+msgid "This is a heading"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/feature-icon-neutral-center.php:17, ../crosswinds-framework/patterns/feature-icon-neutral-left.php:17, ../crosswinds-framework/patterns/feature-icon-transparent-center.php:17, ../crosswinds-framework/patterns/feature-icon-transparent-left.php:17, ../crosswinds-framework/patterns/feature-neutral-center.php:13, ../crosswinds-framework/patterns/feature-neutral-left.php:13, ../crosswinds-framework/patterns/feature-transparent-center.php:13, ../crosswinds-framework/patterns/feature-transparent-left.php:13, ../crosswinds-framework/patterns/features-section-2-box-grid-base.php:29, ../crosswinds-framework/patterns/features-section-2-box-grid-base.php:47, ../crosswinds-framework/patterns/features-section-2-box-grid-base.php:65, ../crosswinds-framework/patterns/features-section-2-box-grid-base.php:83, ../crosswinds-framework/patterns/features-section-2-box-grid-contrast.php:29, ../crosswinds-framework/patterns/features-section-2-box-grid-contrast.php:47, ../crosswinds-framework/patterns/features-section-2-box-grid-contrast.php:65, ../crosswinds-framework/patterns/features-section-2-box-grid-contrast.php:83, ../crosswinds-framework/patterns/features-section-3-box-grid-base.php:29, ../crosswinds-framework/patterns/features-section-3-box-grid-base.php:47, ../crosswinds-framework/patterns/features-section-3-box-grid-base.php:65, ../crosswinds-framework/patterns/features-section-3-box-grid-base.php:83, ../crosswinds-framework/patterns/features-section-3-box-grid-base.php:101, ../crosswinds-framework/patterns/features-section-3-box-grid-base.php:119, ../crosswinds-framework/patterns/features-section-3-box-grid-contrast.php:29, ../crosswinds-framework/patterns/features-section-3-box-grid-contrast.php:47, ../crosswinds-framework/patterns/features-section-3-box-grid-contrast.php:65, ../crosswinds-framework/patterns/features-section-3-box-grid-contrast.php:83, ../crosswinds-framework/patterns/features-section-3-box-grid-contrast.php:101, ../crosswinds-framework/patterns/features-section-3-box-grid-contrast.php:119, ../crosswinds-framework/patterns/features-section-photo-left-base.php:37, ../crosswinds-framework/patterns/features-section-photo-left-base.php:55, ../crosswinds-framework/patterns/features-section-photo-left-base.php:73, ../crosswinds-framework/patterns/features-section-photo-left-base.php:91, ../crosswinds-framework/patterns/features-section-photo-left-contrast.php:37, ../crosswinds-framework/patterns/features-section-photo-left-contrast.php:55, ../crosswinds-framework/patterns/features-section-photo-left-contrast.php:73, ../crosswinds-framework/patterns/features-section-photo-left-contrast.php:91
+msgid "Feature Heading"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/featured-content-base-photo-left.php:15, ../crosswinds-framework/patterns/featured-content-contrast-photo-left.php:15, ../crosswinds-framework/patterns/hero-section-base-photo-right.php:31, ../crosswinds-framework/patterns/hero-section-contrast-photo-right.php:31
+msgid "A photo of The Flying Squirrel in downtown Mansfield"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/featured-content-base-photo-left.php:30, ../crosswinds-framework/patterns/featured-content-base-photo-right.php:24, ../crosswinds-framework/patterns/featured-content-contrast-photo-left.php:30, ../crosswinds-framework/patterns/featured-content-contrast-photo-right.php:24, ../crosswinds-framework/patterns/hero-section-base-center.php:22, ../crosswinds-framework/patterns/hero-section-base-photo-left.php:30, ../crosswinds-framework/patterns/hero-section-base-photo-right.php:24, ../crosswinds-framework/patterns/hero-section-contrast-center.php:22, ../crosswinds-framework/patterns/hero-section-contrast-photo-left.php:30, ../crosswinds-framework/patterns/hero-section-contrast-photo-right.php:24, ../crosswinds-framework/patterns/hero-section-cover-center.php:24, ../crosswinds-framework/patterns/hero-section-cover-left.php:26, ../crosswinds-framework/patterns/hero-section-cover-right.php:30
+msgid "Add a Button Here"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/featured-content-base-photo-right.php:31, ../crosswinds-framework/patterns/featured-content-contrast-photo-right.php:31, ../crosswinds-framework/patterns/hero-section-base-photo-left.php:15, ../crosswinds-framework/patterns/hero-section-contrast-photo-left.php:15
+msgid "A photo of the welcome to Historic Downtown Mansfield sign"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/features-section-2-box-grid-base.php:13, ../crosswinds-framework/patterns/features-section-2-box-grid-contrast.php:13, ../crosswinds-framework/patterns/features-section-3-box-grid-base.php:13, ../crosswinds-framework/patterns/features-section-3-box-grid-contrast.php:13, ../crosswinds-framework/patterns/features-section-photo-left-base.php:21, ../crosswinds-framework/patterns/features-section-photo-left-contrast.php:21, ../crosswinds-framework/patterns/homepage-product.php:39
+msgid "Our Product's Features"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/footer-contrast-call-to-action.php:16, ../crosswinds-framework/patterns/footer-neutral-call-to-action.php:16
+msgid "Call to Action Here"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/footer-contrast-call-to-action.php:34, ../crosswinds-framework/patterns/footer-contrast-call-to-action.php:42, ../crosswinds-framework/patterns/footer-contrast-large.php:24, ../crosswinds-framework/patterns/footer-contrast-large.php:32, ../crosswinds-framework/patterns/footer-contrast-large.php:40, ../crosswinds-framework/patterns/footer-contrast-x-large.php:16, ../crosswinds-framework/patterns/footer-contrast-x-large.php:24, ../crosswinds-framework/patterns/footer-contrast-x-large.php:32, ../crosswinds-framework/patterns/footer-contrast-x-large.php:40, ../crosswinds-framework/patterns/footer-contrast-x-large.php:48, ../crosswinds-framework/patterns/footer-contrast-x-large.php:56, ../crosswinds-framework/patterns/footer-neutral-call-to-action.php:34, ../crosswinds-framework/patterns/footer-neutral-call-to-action.php:42, ../crosswinds-framework/patterns/footer-neutral-large.php:24, ../crosswinds-framework/patterns/footer-neutral-large.php:32, ../crosswinds-framework/patterns/footer-neutral-large.php:40, ../crosswinds-framework/patterns/footer-neutral-x-large.php:16, ../crosswinds-framework/patterns/footer-neutral-x-large.php:24, ../crosswinds-framework/patterns/footer-neutral-x-large.php:32, ../crosswinds-framework/patterns/footer-neutral-x-large.php:40, ../crosswinds-framework/patterns/footer-neutral-x-large.php:48, ../crosswinds-framework/patterns/footer-neutral-x-large.php:56
+msgid "Menu Title"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-local-services-business.php:19
+msgid "Welcome to My Business!"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-local-services-business.php:28, ../crosswinds-framework/patterns/homepage-local-services-business.php:568
+msgid "Request a Quote"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-local-services-business.php:83
+msgid "Great Work"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-local-services-business.php:101
+msgid "Rapid Response"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-local-services-business.php:119
+msgid "Perfect Customer Service"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-local-services-business.php:137
+msgid "Great Reviews"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-local-services-business.php:155
+msgid "Lifetime Warranty"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-local-services-business.php:173
+msgid "Flexible Financing"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-local-services-business.php:187, ../crosswinds-framework/patterns/homepage-portfolio.php:185, ../crosswinds-framework/patterns/homepage-product.php:199, ../crosswinds-framework/patterns/testimonials-section-2-box-grid-base.php:13, ../crosswinds-framework/patterns/testimonials-section-2-box-grid-contrast.php:13, ../crosswinds-framework/patterns/testimonials-section-3-box-grid-base.php:13, ../crosswinds-framework/patterns/testimonials-section-3-box-grid-contrast.php:13
+msgid "What Others Have Said"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-local-services-business.php:215, ../crosswinds-framework/patterns/homepage-local-services-business.php:247, ../crosswinds-framework/patterns/homepage-local-services-business.php:279, ../crosswinds-framework/patterns/homepage-local-services-business.php:311, ../crosswinds-framework/patterns/homepage-online-store.php:359, ../crosswinds-framework/patterns/homepage-online-store.php:391, ../crosswinds-framework/patterns/homepage-online-store.php:423, ../crosswinds-framework/patterns/homepage-online-store.php:455, ../crosswinds-framework/patterns/homepage-portfolio.php:213, ../crosswinds-framework/patterns/homepage-portfolio.php:245, ../crosswinds-framework/patterns/homepage-portfolio.php:277, ../crosswinds-framework/patterns/homepage-portfolio.php:309, ../crosswinds-framework/patterns/homepage-portfolio.php:341, ../crosswinds-framework/patterns/homepage-portfolio.php:373, ../crosswinds-framework/patterns/homepage-product.php:227, ../crosswinds-framework/patterns/homepage-product.php:259, ../crosswinds-framework/patterns/homepage-product.php:291, ../crosswinds-framework/patterns/homepage-product.php:323, ../crosswinds-framework/patterns/team-member-column.php:18, ../crosswinds-framework/patterns/team-member-row.php:21, ../crosswinds-framework/patterns/team-members-section-grid-base.php:32, ../crosswinds-framework/patterns/team-members-section-grid-base.php:82, ../crosswinds-framework/patterns/team-members-section-grid-base.php:132, ../crosswinds-framework/patterns/team-members-section-grid-base.php:182, ../crosswinds-framework/patterns/team-members-section-grid-contrast.php:32, ../crosswinds-framework/patterns/team-members-section-grid-contrast.php:82, ../crosswinds-framework/patterns/team-members-section-grid-contrast.php:132, ../crosswinds-framework/patterns/team-members-section-grid-contrast.php:182, ../crosswinds-framework/patterns/team-members-section-rows-base.php:32, ../crosswinds-framework/patterns/team-members-section-rows-base.php:82, ../crosswinds-framework/patterns/team-members-section-rows-base.php:132, ../crosswinds-framework/patterns/team-members-section-rows-base.php:182, ../crosswinds-framework/patterns/team-members-section-rows-contrast.php:32, ../crosswinds-framework/patterns/team-members-section-rows-contrast.php:82, ../crosswinds-framework/patterns/team-members-section-rows-contrast.php:132, ../crosswinds-framework/patterns/team-members-section-rows-contrast.php:182, ../crosswinds-framework/patterns/testimonial-neutral-no-stars.php:25, ../crosswinds-framework/patterns/testimonial-neutral-stars.php:29, ../crosswinds-framework/patterns/testimonial-transparent-no-stars.php:25, ../crosswinds-framework/patterns/testimonial-transparent-stars.php:29, ../crosswinds-framework/patterns/testimonials-section-2-box-grid-base.php:41, ../crosswinds-framework/patterns/testimonials-section-2-box-grid-base.php:73, ../crosswinds-framework/patterns/testimonials-section-2-box-grid-base.php:105, ../crosswinds-framework/patterns/testimonials-section-2-box-grid-base.php:137, ../crosswinds-framework/patterns/testimonials-section-2-box-grid-contrast.php:41, ../crosswinds-framework/patterns/testimonials-section-2-box-grid-contrast.php:73, ../crosswinds-framework/patterns/testimonials-section-2-box-grid-contrast.php:105, ../crosswinds-framework/patterns/testimonials-section-2-box-grid-contrast.php:137, ../crosswinds-framework/patterns/testimonials-section-3-box-grid-base.php:41, ../crosswinds-framework/patterns/testimonials-section-3-box-grid-base.php:73, ../crosswinds-framework/patterns/testimonials-section-3-box-grid-base.php:105, ../crosswinds-framework/patterns/testimonials-section-3-box-grid-base.php:137, ../crosswinds-framework/patterns/testimonials-section-3-box-grid-base.php:169, ../crosswinds-framework/patterns/testimonials-section-3-box-grid-base.php:201, ../crosswinds-framework/patterns/testimonials-section-3-box-grid-contrast.php:41, ../crosswinds-framework/patterns/testimonials-section-3-box-grid-contrast.php:73, ../crosswinds-framework/patterns/testimonials-section-3-box-grid-contrast.php:105, ../crosswinds-framework/patterns/testimonials-section-3-box-grid-contrast.php:137, ../crosswinds-framework/patterns/testimonials-section-3-box-grid-contrast.php:169, ../crosswinds-framework/patterns/testimonials-section-3-box-grid-contrast.php:201
+msgid "Person Name"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-local-services-business.php:219, ../crosswinds-framework/patterns/homepage-local-services-business.php:251, ../crosswinds-framework/patterns/homepage-local-services-business.php:283, ../crosswinds-framework/patterns/homepage-local-services-business.php:315, ../crosswinds-framework/patterns/homepage-online-store.php:363, ../crosswinds-framework/patterns/homepage-online-store.php:395, ../crosswinds-framework/patterns/homepage-online-store.php:427, ../crosswinds-framework/patterns/homepage-online-store.php:459, ../crosswinds-framework/patterns/homepage-portfolio.php:217, ../crosswinds-framework/patterns/homepage-portfolio.php:249, ../crosswinds-framework/patterns/homepage-portfolio.php:281, ../crosswinds-framework/patterns/homepage-portfolio.php:313, ../crosswinds-framework/patterns/homepage-portfolio.php:345, ../crosswinds-framework/patterns/homepage-portfolio.php:377, ../crosswinds-framework/patterns/homepage-product.php:231, ../crosswinds-framework/patterns/homepage-product.php:263, ../crosswinds-framework/patterns/homepage-product.php:295, ../crosswinds-framework/patterns/homepage-product.php:327, ../crosswinds-framework/patterns/testimonial-neutral-no-stars.php:29, ../crosswinds-framework/patterns/testimonial-neutral-stars.php:33, ../crosswinds-framework/patterns/testimonial-transparent-no-stars.php:29, ../crosswinds-framework/patterns/testimonial-transparent-stars.php:33, ../crosswinds-framework/patterns/testimonials-section-2-box-grid-base.php:45, ../crosswinds-framework/patterns/testimonials-section-2-box-grid-base.php:77, ../crosswinds-framework/patterns/testimonials-section-2-box-grid-base.php:109, ../crosswinds-framework/patterns/testimonials-section-2-box-grid-base.php:141, ../crosswinds-framework/patterns/testimonials-section-2-box-grid-contrast.php:45, ../crosswinds-framework/patterns/testimonials-section-2-box-grid-contrast.php:77, ../crosswinds-framework/patterns/testimonials-section-2-box-grid-contrast.php:109, ../crosswinds-framework/patterns/testimonials-section-2-box-grid-contrast.php:141, ../crosswinds-framework/patterns/testimonials-section-3-box-grid-base.php:45, ../crosswinds-framework/patterns/testimonials-section-3-box-grid-base.php:77, ../crosswinds-framework/patterns/testimonials-section-3-box-grid-base.php:109, ../crosswinds-framework/patterns/testimonials-section-3-box-grid-base.php:141, ../crosswinds-framework/patterns/testimonials-section-3-box-grid-base.php:173, ../crosswinds-framework/patterns/testimonials-section-3-box-grid-base.php:205, ../crosswinds-framework/patterns/testimonials-section-3-box-grid-contrast.php:45, ../crosswinds-framework/patterns/testimonials-section-3-box-grid-contrast.php:77, ../crosswinds-framework/patterns/testimonials-section-3-box-grid-contrast.php:109, ../crosswinds-framework/patterns/testimonials-section-3-box-grid-contrast.php:141, ../crosswinds-framework/patterns/testimonials-section-3-box-grid-contrast.php:173, ../crosswinds-framework/patterns/testimonials-section-3-box-grid-contrast.php:205
+msgid "Position or Title"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-local-services-business.php:327
+msgid "Our Amazing Plans"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-local-services-business.php:338, ../crosswinds-framework/patterns/homepage-local-services-business.php:394, ../crosswinds-framework/patterns/homepage-local-services-business.php:450, ../crosswinds-framework/patterns/homepage-product.php:350, ../crosswinds-framework/patterns/homepage-product.php:406, ../crosswinds-framework/patterns/homepage-product.php:462, ../crosswinds-framework/patterns/pricing-column-list-price-bottom.php:13, ../crosswinds-framework/patterns/pricing-column-list-price-top.php:13, ../crosswinds-framework/patterns/pricing-column-paragraph-price-bottom.php:13, ../crosswinds-framework/patterns/pricing-column-paragraph-price-top.php:13, ../crosswinds-framework/patterns/pricing-table-four-columns.php:24, ../crosswinds-framework/patterns/pricing-table-four-columns.php:80, ../crosswinds-framework/patterns/pricing-table-four-columns.php:136, ../crosswinds-framework/patterns/pricing-table-four-columns.php:192, ../crosswinds-framework/patterns/pricing-table-three-columns.php:24, ../crosswinds-framework/patterns/pricing-table-three-columns.php:80, ../crosswinds-framework/patterns/pricing-table-three-columns.php:136, ../crosswinds-framework/patterns/pricing-table-two-columns.php:24, ../crosswinds-framework/patterns/pricing-table-two-columns.php:64
+msgid "Plan Title"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-local-services-business.php:347, ../crosswinds-framework/patterns/homepage-local-services-business.php:355, ../crosswinds-framework/patterns/homepage-local-services-business.php:363, ../crosswinds-framework/patterns/homepage-local-services-business.php:371, ../crosswinds-framework/patterns/homepage-local-services-business.php:379, ../crosswinds-framework/patterns/homepage-local-services-business.php:403, ../crosswinds-framework/patterns/homepage-local-services-business.php:411, ../crosswinds-framework/patterns/homepage-local-services-business.php:419, ../crosswinds-framework/patterns/homepage-local-services-business.php:427, ../crosswinds-framework/patterns/homepage-local-services-business.php:435, ../crosswinds-framework/patterns/homepage-local-services-business.php:459, ../crosswinds-framework/patterns/homepage-local-services-business.php:467, ../crosswinds-framework/patterns/homepage-local-services-business.php:475, ../crosswinds-framework/patterns/homepage-local-services-business.php:483, ../crosswinds-framework/patterns/homepage-local-services-business.php:491, ../crosswinds-framework/patterns/homepage-product.php:359, ../crosswinds-framework/patterns/homepage-product.php:367, ../crosswinds-framework/patterns/homepage-product.php:375, ../crosswinds-framework/patterns/homepage-product.php:383, ../crosswinds-framework/patterns/homepage-product.php:391, ../crosswinds-framework/patterns/homepage-product.php:415, ../crosswinds-framework/patterns/homepage-product.php:423, ../crosswinds-framework/patterns/homepage-product.php:431, ../crosswinds-framework/patterns/homepage-product.php:439, ../crosswinds-framework/patterns/homepage-product.php:447, ../crosswinds-framework/patterns/homepage-product.php:471, ../crosswinds-framework/patterns/homepage-product.php:479, ../crosswinds-framework/patterns/homepage-product.php:487, ../crosswinds-framework/patterns/homepage-product.php:495, ../crosswinds-framework/patterns/homepage-product.php:503, ../crosswinds-framework/patterns/pricing-column-list-price-bottom.php:22, ../crosswinds-framework/patterns/pricing-column-list-price-bottom.php:26, ../crosswinds-framework/patterns/pricing-column-list-price-bottom.php:30, ../crosswinds-framework/patterns/pricing-column-list-price-bottom.php:34, ../crosswinds-framework/patterns/pricing-column-list-price-bottom.php:38, ../crosswinds-framework/patterns/pricing-column-list-price-top.php:28, ../crosswinds-framework/patterns/pricing-column-list-price-top.php:32, ../crosswinds-framework/patterns/pricing-column-list-price-top.php:36, ../crosswinds-framework/patterns/pricing-column-list-price-top.php:40, ../crosswinds-framework/patterns/pricing-column-list-price-top.php:44, ../crosswinds-framework/patterns/pricing-column-paragraph-price-bottom.php:22, ../crosswinds-framework/patterns/pricing-column-paragraph-price-bottom.php:30, ../crosswinds-framework/patterns/pricing-column-paragraph-price-bottom.php:38, ../crosswinds-framework/patterns/pricing-column-paragraph-price-bottom.php:46, ../crosswinds-framework/patterns/pricing-column-paragraph-price-bottom.php:54, ../crosswinds-framework/patterns/pricing-column-paragraph-price-top.php:28, ../crosswinds-framework/patterns/pricing-column-paragraph-price-top.php:36, ../crosswinds-framework/patterns/pricing-column-paragraph-price-top.php:44, ../crosswinds-framework/patterns/pricing-column-paragraph-price-top.php:52, ../crosswinds-framework/patterns/pricing-column-paragraph-price-top.php:60, ../crosswinds-framework/patterns/pricing-table-four-columns.php:39, ../crosswinds-framework/patterns/pricing-table-four-columns.php:47, ../crosswinds-framework/patterns/pricing-table-four-columns.php:55, ../crosswinds-framework/patterns/pricing-table-four-columns.php:63, ../crosswinds-framework/patterns/pricing-table-four-columns.php:71, ../crosswinds-framework/patterns/pricing-table-four-columns.php:95, ../crosswinds-framework/patterns/pricing-table-four-columns.php:103, ../crosswinds-framework/patterns/pricing-table-four-columns.php:111, ../crosswinds-framework/patterns/pricing-table-four-columns.php:119, ../crosswinds-framework/patterns/pricing-table-four-columns.php:127, ../crosswinds-framework/patterns/pricing-table-four-columns.php:151, ../crosswinds-framework/patterns/pricing-table-four-columns.php:159, ../crosswinds-framework/patterns/pricing-table-four-columns.php:167, ../crosswinds-framework/patterns/pricing-table-four-columns.php:175, ../crosswinds-framework/patterns/pricing-table-four-columns.php:183, ../crosswinds-framework/patterns/pricing-table-four-columns.php:207, ../crosswinds-framework/patterns/pricing-table-four-columns.php:215, ../crosswinds-framework/patterns/pricing-table-four-columns.php:223, ../crosswinds-framework/patterns/pricing-table-four-columns.php:231, ../crosswinds-framework/patterns/pricing-table-four-columns.php:239, ../crosswinds-framework/patterns/pricing-table-three-columns.php:33, ../crosswinds-framework/patterns/pricing-table-three-columns.php:41, ../crosswinds-framework/patterns/pricing-table-three-columns.php:49, ../crosswinds-framework/patterns/pricing-table-three-columns.php:57, ../crosswinds-framework/patterns/pricing-table-three-columns.php:65, ../crosswinds-framework/patterns/pricing-table-three-columns.php:89, ../crosswinds-framework/patterns/pricing-table-three-columns.php:97, ../crosswinds-framework/patterns/pricing-table-three-columns.php:105, ../crosswinds-framework/patterns/pricing-table-three-columns.php:113, ../crosswinds-framework/patterns/pricing-table-three-columns.php:121, ../crosswinds-framework/patterns/pricing-table-three-columns.php:145, ../crosswinds-framework/patterns/pricing-table-three-columns.php:153, ../crosswinds-framework/patterns/pricing-table-three-columns.php:161, ../crosswinds-framework/patterns/pricing-table-three-columns.php:169, ../crosswinds-framework/patterns/pricing-table-three-columns.php:177, ../crosswinds-framework/patterns/pricing-table-two-columns.php:33, ../crosswinds-framework/patterns/pricing-table-two-columns.php:37, ../crosswinds-framework/patterns/pricing-table-two-columns.php:41, ../crosswinds-framework/patterns/pricing-table-two-columns.php:45, ../crosswinds-framework/patterns/pricing-table-two-columns.php:49, ../crosswinds-framework/patterns/pricing-table-two-columns.php:73, ../crosswinds-framework/patterns/pricing-table-two-columns.php:77, ../crosswinds-framework/patterns/pricing-table-two-columns.php:81, ../crosswinds-framework/patterns/pricing-table-two-columns.php:85, ../crosswinds-framework/patterns/pricing-table-two-columns.php:89
+msgid "Plan Feature"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-local-services-business.php:385, ../crosswinds-framework/patterns/homepage-local-services-business.php:441, ../crosswinds-framework/patterns/homepage-local-services-business.php:497, ../crosswinds-framework/patterns/homepage-product.php:397, ../crosswinds-framework/patterns/homepage-product.php:453, ../crosswinds-framework/patterns/homepage-product.php:509
+msgid "Sign Up"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-local-services-business.php:509, ../crosswinds-framework/patterns/homepage-portfolio.php:417
+msgid "Recent Blog Posts"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-local-services-business.php:520
+msgid "View Our Full Blog"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-local-services-business.php:557
+msgid "Get Started Today!"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-online-store.php:17, ../crosswinds-framework/patterns/homepage-online-store.php:471
+msgid "Shop Our Store"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-online-store.php:26
+msgid "View Store"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-online-store.php:48
+msgid "Books"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-online-store.php:64
+msgid "Clothing"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-online-store.php:80
+msgid "Technology"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-online-store.php:96
+msgid "Sports"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-online-store.php:107
+msgid "Our Best Products"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-online-store.php:263
+msgid "We Can Ship It Anywhere"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-online-store.php:281
+msgid "30-Day Refunds"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-online-store.php:299
+msgid "Best Quality"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-online-store.php:317
+msgid "Secure Online Payments"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-online-store.php:331
+msgid "What Others Are Saying"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-online-store.php:480
+msgid "Shop Now"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-portfolio.php:15
+msgid "Welcome to My Portfolio"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-portfolio.php:28, ../crosswinds-framework/patterns/homepage-portfolio.php:406
+msgid "Learn More About Me"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-portfolio.php:47
+msgid "My Services"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-portfolio.php:63
+msgid "Studio Photography"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-portfolio.php:81
+msgid "Photo Editing"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-portfolio.php:99
+msgid "Storytelling"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-portfolio.php:117
+msgid "Product Photgraphy"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-portfolio.php:135, ../crosswinds-framework/patterns/homepage-portfolio.php:167
+msgid "Project Title"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-portfolio.php:144, ../crosswinds-framework/patterns/homepage-portfolio.php:176
+msgid "View Project"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-portfolio.php:397
+msgid "Who I Am"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-portfolio.php:428
+msgid "See More of My Writing"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-portfolio.php:465
+msgid "Work With Me"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-portfolio.php:476, ../crosswinds-framework/patterns/team-member-column.php:51, ../crosswinds-framework/patterns/team-member-row.php:54, ../crosswinds-framework/patterns/team-members-section-grid-base.php:65, ../crosswinds-framework/patterns/team-members-section-grid-base.php:115, ../crosswinds-framework/patterns/team-members-section-grid-base.php:165, ../crosswinds-framework/patterns/team-members-section-grid-base.php:215, ../crosswinds-framework/patterns/team-members-section-grid-contrast.php:65, ../crosswinds-framework/patterns/team-members-section-grid-contrast.php:115, ../crosswinds-framework/patterns/team-members-section-grid-contrast.php:165, ../crosswinds-framework/patterns/team-members-section-grid-contrast.php:215, ../crosswinds-framework/patterns/team-members-section-rows-base.php:65, ../crosswinds-framework/patterns/team-members-section-rows-base.php:115, ../crosswinds-framework/patterns/team-members-section-rows-base.php:165, ../crosswinds-framework/patterns/team-members-section-rows-base.php:215, ../crosswinds-framework/patterns/team-members-section-rows-contrast.php:65, ../crosswinds-framework/patterns/team-members-section-rows-contrast.php:115, ../crosswinds-framework/patterns/team-members-section-rows-contrast.php:165, ../crosswinds-framework/patterns/team-members-section-rows-contrast.php:215
+msgid "Contact Me"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-product.php:15
+msgid "Our Amazing App"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-product.php:24
+msgid "Download Now"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-product.php:55
+msgid "Easy to Use"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-product.php:73
+msgid "Accessibility"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-product.php:91
+msgid "Performance"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-product.php:109
+msgid "Customizations"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-product.php:127
+msgid "Top Customer Service"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-product.php:145
+msgid "Highly Rated"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-product.php:167
+msgid "Top Feature 1"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-product.php:181
+msgid "Top Feature 2"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/homepage-product.php:339
+msgid "Our Great Plans"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/link-group-base-pattern.php:21, ../crosswinds-framework/patterns/link-group-contrast-pattern.php:21
+msgid "Your Name or Heading Here"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/link-group-base-pattern.php:25, ../crosswinds-framework/patterns/link-group-contrast-pattern.php:25
+msgid "WordPress Web Developer"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/link-group-base-pattern.php:32, ../crosswinds-framework/patterns/link-group-contrast-pattern.php:32
+msgid "Link 1"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/link-group-base-pattern.php:36, ../crosswinds-framework/patterns/link-group-contrast-pattern.php:36
+msgid "Link 2"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/link-group-base-pattern.php:40, ../crosswinds-framework/patterns/link-group-contrast-pattern.php:40
+msgid "Link 3"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/link-group-base-pattern.php:44, ../crosswinds-framework/patterns/link-group-contrast-pattern.php:44
+msgid "Link 4"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/link-group-base-pattern.php:48, ../crosswinds-framework/patterns/link-group-contrast-pattern.php:48
+msgid "Link 5"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/link-group-base-pattern.php:52, ../crosswinds-framework/patterns/link-group-contrast-pattern.php:52
+msgid "Link 6"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/link-group-base-pattern.php:56, ../crosswinds-framework/patterns/link-group-contrast-pattern.php:56
+msgid "Link 7"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/link-group-base-pattern.php:60, ../crosswinds-framework/patterns/link-group-contrast-pattern.php:60
+msgid "Link 8"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/post-content-left-sidebar.php:40, ../crosswinds-framework/patterns/post-content-no-sidebar.php:34, ../crosswinds-framework/patterns/post-content-right-sidebar.php:36
+msgid "Tags:"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/pricing-column-list-price-bottom.php:44, ../crosswinds-framework/patterns/pricing-column-list-price-top.php:22, ../crosswinds-framework/patterns/pricing-column-paragraph-price-bottom.php:60, ../crosswinds-framework/patterns/pricing-column-paragraph-price-top.php:22, ../crosswinds-framework/patterns/pricing-table-four-columns.php:33, ../crosswinds-framework/patterns/pricing-table-four-columns.php:89, ../crosswinds-framework/patterns/pricing-table-four-columns.php:145, ../crosswinds-framework/patterns/pricing-table-four-columns.php:201, ../crosswinds-framework/patterns/pricing-table-three-columns.php:71, ../crosswinds-framework/patterns/pricing-table-three-columns.php:127, ../crosswinds-framework/patterns/pricing-table-three-columns.php:183, ../crosswinds-framework/patterns/pricing-table-two-columns.php:55, ../crosswinds-framework/patterns/pricing-table-two-columns.php:95
+msgid "Sign U"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/pricing-table-four-columns.php:13, ../crosswinds-framework/patterns/pricing-table-three-columns.php:13, ../crosswinds-framework/patterns/pricing-table-two-columns.php:13
+msgid "Pricing Table"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/query-pattern-grid.php:31, ../crosswinds-framework/patterns/query-pattern-list-columns.php:31, ../crosswinds-framework/patterns/query-pattern-list.php:31
+msgid "Read This Post"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/services-section-2-box-grid-base.php:13, ../crosswinds-framework/patterns/services-section-2-box-grid-contrast.php:13, ../crosswinds-framework/patterns/services-section-3-box-grid-base.php:13, ../crosswinds-framework/patterns/services-section-3-box-grid-contrast.php:13, ../crosswinds-framework/patterns/services-section-photo-left-base.php:21, ../crosswinds-framework/patterns/services-section-photo-left-contrast.php:21
+msgid "Our Services"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/services-section-2-box-grid-base.php:29, ../crosswinds-framework/patterns/services-section-2-box-grid-base.php:47, ../crosswinds-framework/patterns/services-section-2-box-grid-base.php:65, ../crosswinds-framework/patterns/services-section-2-box-grid-base.php:83, ../crosswinds-framework/patterns/services-section-2-box-grid-contrast.php:29, ../crosswinds-framework/patterns/services-section-2-box-grid-contrast.php:47, ../crosswinds-framework/patterns/services-section-2-box-grid-contrast.php:65, ../crosswinds-framework/patterns/services-section-2-box-grid-contrast.php:83, ../crosswinds-framework/patterns/services-section-3-box-grid-base.php:29, ../crosswinds-framework/patterns/services-section-3-box-grid-base.php:47, ../crosswinds-framework/patterns/services-section-3-box-grid-base.php:65, ../crosswinds-framework/patterns/services-section-3-box-grid-base.php:83, ../crosswinds-framework/patterns/services-section-3-box-grid-base.php:101, ../crosswinds-framework/patterns/services-section-3-box-grid-base.php:119, ../crosswinds-framework/patterns/services-section-3-box-grid-contrast.php:29, ../crosswinds-framework/patterns/services-section-3-box-grid-contrast.php:47, ../crosswinds-framework/patterns/services-section-3-box-grid-contrast.php:65, ../crosswinds-framework/patterns/services-section-3-box-grid-contrast.php:83, ../crosswinds-framework/patterns/services-section-3-box-grid-contrast.php:101, ../crosswinds-framework/patterns/services-section-3-box-grid-contrast.php:119, ../crosswinds-framework/patterns/services-section-photo-left-base.php:37, ../crosswinds-framework/patterns/services-section-photo-left-base.php:55, ../crosswinds-framework/patterns/services-section-photo-left-base.php:73, ../crosswinds-framework/patterns/services-section-photo-left-base.php:91, ../crosswinds-framework/patterns/services-section-photo-left-contrast.php:37, ../crosswinds-framework/patterns/services-section-photo-left-contrast.php:55, ../crosswinds-framework/patterns/services-section-photo-left-contrast.php:73, ../crosswinds-framework/patterns/services-section-photo-left-contrast.php:91
+msgid "Service Heading"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/stats-section-2-grid-base.php:13, ../crosswinds-framework/patterns/stats-section-2-grid-contrast.php:13, ../crosswinds-framework/patterns/stats-section-4-grid-base.php:13, ../crosswinds-framework/patterns/stats-section-4-grid-contrast.php:13
+msgid "What the Stats Say"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/stats-section-2-grid-base.php:29, ../crosswinds-framework/patterns/stats-section-2-grid-base.php:49, ../crosswinds-framework/patterns/stats-section-2-grid-base.php:69, ../crosswinds-framework/patterns/stats-section-2-grid-base.php:89, ../crosswinds-framework/patterns/stats-section-2-grid-contrast.php:29, ../crosswinds-framework/patterns/stats-section-2-grid-contrast.php:49, ../crosswinds-framework/patterns/stats-section-2-grid-contrast.php:69, ../crosswinds-framework/patterns/stats-section-2-grid-contrast.php:89, ../crosswinds-framework/patterns/stats-section-4-grid-base.php:25, ../crosswinds-framework/patterns/stats-section-4-grid-base.php:39, ../crosswinds-framework/patterns/stats-section-4-grid-base.php:53, ../crosswinds-framework/patterns/stats-section-4-grid-base.php:67, ../crosswinds-framework/patterns/stats-section-4-grid-contrast.php:25, ../crosswinds-framework/patterns/stats-section-4-grid-contrast.php:39, ../crosswinds-framework/patterns/stats-section-4-grid-contrast.php:53, ../crosswinds-framework/patterns/stats-section-4-grid-contrast.php:67
+msgid "Stat Title Here"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/team-member-column.php:22, ../crosswinds-framework/patterns/team-member-row.php:25, ../crosswinds-framework/patterns/team-members-section-grid-base.php:36, ../crosswinds-framework/patterns/team-members-section-grid-base.php:86, ../crosswinds-framework/patterns/team-members-section-grid-base.php:136, ../crosswinds-framework/patterns/team-members-section-grid-base.php:186, ../crosswinds-framework/patterns/team-members-section-grid-contrast.php:36, ../crosswinds-framework/patterns/team-members-section-grid-contrast.php:86, ../crosswinds-framework/patterns/team-members-section-grid-contrast.php:136, ../crosswinds-framework/patterns/team-members-section-grid-contrast.php:186, ../crosswinds-framework/patterns/team-members-section-rows-base.php:36, ../crosswinds-framework/patterns/team-members-section-rows-base.php:86, ../crosswinds-framework/patterns/team-members-section-rows-base.php:136, ../crosswinds-framework/patterns/team-members-section-rows-base.php:186, ../crosswinds-framework/patterns/team-members-section-rows-contrast.php:36, ../crosswinds-framework/patterns/team-members-section-rows-contrast.php:86, ../crosswinds-framework/patterns/team-members-section-rows-contrast.php:136, ../crosswinds-framework/patterns/team-members-section-rows-contrast.php:186
+msgid "Position"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/team-members-section-grid-base.php:15, ../crosswinds-framework/patterns/team-members-section-grid-contrast.php:15, ../crosswinds-framework/patterns/team-members-section-rows-base.php:15, ../crosswinds-framework/patterns/team-members-section-rows-contrast.php:15
+msgid "Our Great Team"
+msgstr ""
+
+#: ../crosswinds-framework/patterns/widget-default.php:14
+msgid "Widget Title"
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:386, ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:827, ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2533, ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:387, ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:388, ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:937, ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:934
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:1121, ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:3517, ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:3509
+msgid "Show Details"
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:3517, ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:3509
+msgid "Hide Details"
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../crosswinds-framework/inc/tgmpa/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
